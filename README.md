@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7wq1/7wq1/main/assets/developer.gif" width="400" alt="Developer Coding" />
+</div>
