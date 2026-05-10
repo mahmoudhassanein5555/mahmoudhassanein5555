@@ -72,10 +72,9 @@ I'm Mahmoud Hassanein!
 ## 🔥 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/mahmoudhassanein5555">
-    <img src="https://github-readme-stats.vercel.app/api?username=mahmoudhassanein5555&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/mahmoudhassanein5555">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudhassanein5555&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages"/>
-  </a>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoudhassanein5555&show_icons=true&theme=radical&hide_border=true&v=1)](https://github.com/mahmoudhassanein5555)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudhassanein5555&layout=compact&theme=radical&hide_border=true&v=1)](https://github.com/mahmoudhassanein5555)
+
 </div>
