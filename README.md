@@ -1,80 +1,81 @@
-<p align="center">
-  <a href="https://gh-most-followed.pages.dev/egypt">
-    <img src="https://img.shields.io/badge/12ᵗʰ Most Followed User 🇪🇬-262827?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a> &nbsp;
-  <a href="https://committers.top/egypt">
-    <img src="https://img.shields.io/badge/4ᵗʰ Most Active User 🇪🇬-262827?style=flat-square&logo=github" style="height:32px; object-fit:contain;"/></a>
-</p>
+<div align="center">
+  <img height="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazJvbDc5NmphNDRkZnA4Z2cxOGs5M285NGdraXI3eGdoYmhvb2Y2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" />
+</div>
 
-<h1 align="center">Hi, I'm Mahmoud Hassanein</h1>
-<h2 align="center">Flutter Developer | Software Engineer</h2>
+###
 
 <div align="center">
-  <a href="https://www.google.com.eg/search?q=Mahmoud+Hassanein">
-
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=21&color=25E045&center=true&vCenter=true&width=500&height=53&pause=3000&duration=2000&lines=Flutter+Developer;Building+Cross-Platform+Apps;Clean+Architecture+%7C+SOLID+%7C+MVVM;Check+out+my+popular+repos)
-
+  <a href="https://www.linkedin.com/in/mahmoud-hassanein-017119328" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100021875741953" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+  <a href="https://wa.me/201273086169" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo" />
+  </a>
+  <a href="https://www.instagram.com/m_m_hassanein/?hl=ar" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
+  </a>
+  <a href="mailto:mahmoudmohamedhassanein5@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
   </a>
 </div>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1EeHR_2i_uwXXcqO0BDn08MU_azTKeUzq/view">
-    <img src="https://img.shields.io/badge/📄 My CV-0D4430?style=plastic" style="height:37px; object-fit:contain;"/></a>
-</p>
+###
 
-<p>
-  <a href="https://www.google.com.eg/search?q=Mahmoud+Hassanein">
-    <img src="https://komarev.com/ghpvc/?username=mahmoudhassanein5555&style=plastic&color=0D4430" style="height:25px; object-fit:contain;"/></a>
-</p>
+<h1 align="center">
+  Hi, I'm Mahmoud Hassanein👋<br>
+  Flutter Developer | Tech Instructor | CS Student 👨‍💻
+</h1>
 
-### 👨‍💻 About Me
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
 
 <p align="left">
   I'm Mahmoud Hassanein!<br><br>
-  📱 Flutter Developer: Building seamless cross-platform applications using Flutter & Dart.<br>
-  🎓 Computer Science & Artificial Intelligence Student.<br>
-  🛠️ Tech Stack: Flutter, Dart, Firebase, BLoC/Cubit, REST APIs.<br>
-  🏗️ Architecture: Clean Architecture, MVVM & SOLID Principles.<br>
-  🎨 UI/UX: Building responsive and user-friendly mobile interfaces.<br>
-  🤝 Community: Flutter Instructor and active contributor in GDG & IEEE.
+  📱 Mobile Developer: Building seamless cross-platform apps with Flutter & Dart.<br>
+  🎓 Student: Studying Computer Science and Artificial Intelligence.<br>
+  🛠️ Tech Stack: Flutter, Dart, Firebase, Bloc/Cubit, REST APIs.<br>
+  🏗️ Architecture: Focused on Clean Architecture, MVVM, and SOLID principles.<br>
+  🤝 Community: Active contributor and Flutter Instructor (GDG & IEEE).
 </p>
 
-### 📤 Find me on
+###
 
-<p align="left">
-  <a href="mailto:mahmoudmohamedhassanein5@gmail.com">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/gmail-icon.png" height="45"/></a> &nbsp;
+<h3 align="left">🛠 Language and tools</h3>
 
-  <a href="https://www.linkedin.com/in/mahmoud-hassanein-017119328">
-    <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="45"/></a> &nbsp;
+###
 
-  <a href="https://wa.me/201273086169">
-    <img src="https://marketplace.canva.com/Vmp9Y/MAEvzQVmp9Y/1/tl/canva-whatsapp-status-icon-MAEvzQVmp9Y.png" height="45"/></a> &nbsp;
-
-  <a href="https://www.facebook.com/profile.php?id=100021875741953">
-    <img src="https://cdn-icons-png.flaticon.com/256/5968/5968764.png" height="45"/></a> &nbsp;
-
-  <a href="https://www.instagram.com/m_m_hassanein/?hl=ar">
-    <img src="https://cdn-icons-png.flaticon.com/256/2111/2111463.png" height="45"/></a>
-</p>
-
-### 🛠️ Top Technical Skills & Tools
-
-<p align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,dart,firebase,figma,androidstudio,vscode,fastapi,postman,git,github,jira&perline=7" style="height:105px;"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=mahmoudhassanein5555&theme=highcontrast" height="105"/>
-</p>
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mahmoudhassanein5555&theme=onestar&no-bg=true&no-frame=true&row=1&column=7">
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mahmoudhassanein5555/mahmoudhassanein5555/output/pacman-contribution-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mahmoudhassanein5555/mahmoudhassanein5555/output/pacman-contribution-graph.svg" />
-    <img src="https://raw.githubusercontent.com/mahmoudhassanein5555/mahmoudhassanein5555/output/pacman-contribution-graph.svg" alt="Pacman contribution animation" />
-  </picture>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clion/clion-original.svg" height="40" alt="clion logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
 </div>
+
+###
