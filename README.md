@@ -1,9 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=190A48&section=header&reversal=false&text=Mahmoud+Hassanein&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Mahmoud Hassanein Banner" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2B0BAB&section=header&reversal=false&text=Mahmoud+Hassanein&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Mahmoud Hassanein Banner" width="100%">
 </p>
-https://capsule-render.vercel.app/api?type=waving&height=300&color=190A48&section=header&reversal=false&text=Mahmoud+Hassanein&textBg=false&fontColor=000000&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60
-<img width="1600" height="900" alt="pixel-jeff-matrix-s" src="https://github.com/user-attachments/assets/53c9058a-c251-4890-8f6b-6b7861be142f" />
-
 ###
 
 <div align="center">
