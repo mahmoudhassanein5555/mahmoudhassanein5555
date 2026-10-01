@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2B0BAB&section=header&reversal=false&text=Mahmoud+Hassanein&textBg=false&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=50&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60" alt="Mahmoud Hassanein Banner" width="100%">
 </p>
+<img width="1600" height="900" alt="pixel-jeff-matrix-s" src="https://github.com/user-attachments/assets/beb7504e-fabe-499c-9ee3-253e798a4f33" />
+
 ###
 
 <div align="center">
