@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=2B0BAB&section=header&reversal=false&text=Mahmoud+Hassanein&textBg=false&fontColor=FFFFFF&fontSize=70&fontAlign=50&fontAlignY=35&animation=fadeIn&rotate=0&strokeWidth=0&desc=Mobile+Software+Engineer&descSize=20&descAlign=50&descAlignY=60" alt="Mahmoud Hassanein Banner" width="100%">
 </p>
 <img width="1600" height="900" alt="pixel-jeff-matrix-s" src="https://github.com/user-attachments/assets/beb7504e-fabe-499c-9ee3-253e798a4f33" />
-###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mahmoud-hassanein-017119328" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
