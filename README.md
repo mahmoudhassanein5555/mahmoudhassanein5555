@@ -22,11 +22,11 @@
   </a>
 </div>
 
-###
+
 
 <h1 align="center">
   Hi, I'm Mahmoud Hassanein👋<br>
-  Flutter Developer | Tech Instructor | CS Student 👨‍💻
+  Mobile Software Engineer | Flutter Developer | Coding Instructor
 </h1>
 
 ###
