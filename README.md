@@ -4,7 +4,20 @@
 </p>
 <img width="1600" height="900" alt="pixel-jeff-matrix-s" src="https://github.com/user-attachments/assets/beb7504e-fabe-499c-9ee3-253e798a4f33" />
 
- 
+ <h1 align="center">
+  <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Mahmoud+Hassanein+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=800&height=40&lines=Mobile+Software+Engineer;Flutter+Developer;Coding+Instructor" alt="Typing SVG" />
+  </a>
+</p>
+</h1>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/mahmoud-hassanein-017119328" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
@@ -24,20 +37,6 @@
 </div>
 
 
-
-<h1 align="center">
-  <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Mahmoud+Hassanein+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=800&height=40&lines=Mobile+Software+Engineer;Flutter+Developer;Coding+Instructor" alt="Typing SVG" />
-  </a>
-</p>
-</h1>
 
 ###
 
