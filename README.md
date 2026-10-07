@@ -26,8 +26,17 @@
 
 
 <h1 align="center">
-  Hi, I'm Mahmoud Hassanein👋<br>
-  Mobile Software Engineer | Flutter Developer | Coding Instructor
+  <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=800&height=60&lines=Hi%2C+I'm+Mahmoud+Hassanein+%F0%9F%91%8B" alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=800&height=40&lines=Mobile+Software+Engineer;Flutter+Developer;Coding+Instructor" alt="Typing SVG" />
+  </a>
+</p>
 </h1>
 
 ###
@@ -202,7 +211,7 @@
   Completed a hands-on Flutter internship within a professional remote engineering environment.
 - **Flutter Developer Trainee** — *National Telecommunication Institute (NTI), Benha*
   Completed a structured Flutter internship as part of NTI's technical training track.
-- **Tutor Assistant** — *ISchool*
+- **Programming Tutor** — *iSchool*
   Supported learners by reinforcing technical concepts and helping students with comprehension.
 
 ###
